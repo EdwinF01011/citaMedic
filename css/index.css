@@ -12,12 +12,21 @@
 
 }
 
-/* .container-fluid{
-    navbar-brand{
-
-    }
-} */
 
 /* #txt{
     color: blue;
 } */
+
+
+/* BOTONES */
+.btn{
+    background-color: rgb(43, 10, 192);
+    color: cornsilk;
+}
+
+.btn.azul{
+    background-color: rgb(28, 26, 165);
+}
+.btn.orange{
+    background-color: rgb(253, 144, 1);
+}
