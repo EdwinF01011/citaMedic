@@ -1,0 +1,23 @@
+#title-navbar{
+    color: rgb(55, 218, 247);
+    /* position: absolute; */
+    /* margin: 1%; */
+    align-content: flex-end;
+    font-size: 250%;
+}
+
+.container-registro{
+    margin: 4%;
+    font-size: 100%;
+
+}
+
+/* .container-fluid{
+    navbar-brand{
+
+    }
+} */
+
+/* #txt{
+    color: blue;
+} */
